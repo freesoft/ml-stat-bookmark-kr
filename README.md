@@ -35,4 +35,11 @@ https://datascienceschool.net
 
 https://wikidocs.net/book/587
 
-Coursera에 있는 Andrew Ng교수의 머신러닝 강좌 내용을 기본으로 김성훈 교수의 내용까지 덧붙여 정리중인 노트입니다. 앤드류 교수의 머신러닝을 독학하다가 첫 챕터만 여러번 반복실패주인 분들에겐 큰 도움이 될 것 같습니다. 
+Coursera에 있는 Andrew Ng교수의 머신러닝 강좌 내용을 기본으로 김성훈 교수의 내용까지 덧붙여 정리중인 노트입니다. 앤드류 교수의 머신러닝을 독학하다가 첫 챕터만 여러번 반복실패주인 분들에겐 큰 도움이 될 것 같습니다.
+
+
+## Pattern Recognition & Machine Learning  
+
+http://norman3.github.io/prml/ 
+
+머신러닝쪽 고전이라 할 수 있는 비숍의 Pattern Recognition & Machine Learning 책의 스터디 사이트. 깔끔하게 정리되었지만 그것과 잘 이해되는 건 별개의 내용이겠죠. 오히려 스터디가 목표라면 최근에 번역되어 나온 "패턴 인식과 머신 러닝"을 보는 게 나을수도 있겠다는 생각입니다. 전 아직 책을 못 구해서 MS사이트에서 공짜로 다운로드 가능한 원서 PDF를 iPad에 집어넣고 꾸역꾸역 보고 있습니다 ㅠㅠ
