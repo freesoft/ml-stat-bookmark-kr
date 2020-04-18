@@ -2,6 +2,8 @@
 
 대학원 공부하면서 북마크 해둔 혹은 참고하고 있는 자료들 중 한국어 자료들 및 한국어 자막이 있는 자료들, 혹은 한국어는 아니지만 꼭 보면 좋을 것 같은 내용들을 짧은 설명과 함께 정리해 보았습니다. 100% 개인적인 의견이니 참고하시기 바랍니다. 
 
+원본 영문버전은 https://github.com/freesoft/UIUC-MCSDS-bookmark 를 참고하세요. 
+
 ## 이상엽씨의 수학강좌 리스트
 
 https://www.youtube.com/channel/UC-7H7ZImLfGF97Y_EJ0vZzA/playlists
